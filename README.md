@@ -1,5 +1,7 @@
+![Logo](https://github.com/MitchStreet/T-Level-Mentoring-Project/blob/main/Logo.png?raw=true)
 
-# T-Level Mentoring Project
+
+### T-Level Mentoring Project
 
 The following is documentation on a program made in collaboration with a 2nd year T-Level DPDD student and two 1st year T-Level DPDD students.
 
