@@ -12,6 +12,13 @@ A console-based program made for a uniform shop to allow customers to select a s
 The user experience is top priority due to console-based programs being non-user friendly by design.
 Data validation and other features were implemented to improve beyond the spec but the main requirements were still met – only improved upon.
 
+### Programmed in:
+<div align="left">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
+</div>
+
+### Python
+
 ## Features
 
 - Main menu
@@ -119,6 +126,6 @@ All orders are saved in the attached log.txt file.
 ## Created by
 
 - [Eliyan Riasat](https://github.com/eriasat112)
-- [Sean Stewart]()
+- [Sean Stewart](https://github.com/SeanTMC)
 - [Mitchell Street](https://github.com/MitchStreet)
 
